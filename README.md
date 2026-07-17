@@ -1,16 +1,26 @@
-## Hi there 👋
+# Olá, eu sou Bruno Erick!!!
 
-<!--
-**berickprof/berickprof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Full Stack com experiência em **Desenvolvimento de Projetos**, **Docência em Sala de Aula** e **Gestão de Projetos**. Gosto de *jogos competitivos*, *RPG* e *jogos de tabuleiro*.
 
-Here are some ideas to get you started:
+## Tecnologias Utilizadas
+### Mobile
+| Linguagem | Nivel de Habilidade |
+| :--- | :--- |
+| Dart + Flutter | Iniciante |
+| React Native | Intermediário |
+| Kotlin | Iniciante |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Web
+| Linguagem | Nivel de Habilidade |
+| :--- | :--- |
+| JavaScript | Intermediário |
+| PHP | Iniciante |
+| React Web | Intermediário |
+| NodeJS | Intermediário |
+
+## Jogos Competitivos
+| Jogos | Nivel de Habilidade |
+| :--- | :---|
+| League of Legends | 50% |
+| Valorant | 75% |
+| CS GO | 85% |
